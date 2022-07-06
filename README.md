@@ -1,6 +1,7 @@
-### Hi there 👋, Hi, my name is Eric
+### Hi, I'm Eric
 #### Computer Programmer and Photographer
-I am working as a back-end prgrammer for the past 28 years, and I am currently learning front-end coding.
+
+I have 28 years of experience as a back-end programmer and I am currently learning front-end programming.
 
 Skills: COBOL / SQL / HTML / CSS / JS
 
